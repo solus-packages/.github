@@ -1,6 +1,6 @@
 ## Solus Package Repositories 📦
 
-**Please Note: We are currently in the process of transition our source packages repositories from Phabricator to Github. Updating the documentation will take some time, hold tight!**
+**Please Note: We are currently in the process of transitioning our source packages repositories from Phabricator to Github. Updating the documentation will take some time, hold tight!**
 
 💻 Solus is an operating system that is designed for home computing
 
