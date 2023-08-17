@@ -10,7 +10,7 @@
 
 ⬆️ Request a package update: https://help.getsol.us/docs/packaging/procedures/request-a-package-update
 
-🐛 How to submit a issue/bug with a package
+🐛 How to submit a issue/bug with a package: https://github.com/getsolus/packages#welcome
 
 📦 See our packaging documentation: https://help.getsol.us/docs/packaging/
 
