@@ -14,3 +14,8 @@
 
 📦 See our packaging documentation: https://help.getsol.us/docs/packaging/
 
+⤴️ List of active pull requests in the solus-packages org: https://github.com/pulls?user=solus-packages
+
+⏩ List most recently updated packages in the solus-packages org: https://github.com/orgs/solus-packages/dashboard
+
+
