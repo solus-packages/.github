@@ -1,6 +1,6 @@
-## Solus Package Repositories 📦
+## Old Solus Package Repositories 📦
 
-**Please Note: We are currently in the process of transitioning our source packages repositories from Phabricator to Github. Updating the documentation will take some time, hold tight!**
+**Please Note: The new packages repo can be found at [getsolus/packages](https://github.com/getsolus/packages)!**
 
 💻 Solus is an operating system that is designed for home computing
 
@@ -14,8 +14,6 @@
 
 📦 See our packaging documentation: https://help.getsol.us/docs/packaging/
 
-⤴️ List of active pull requests in the solus-packages org: https://github.com/pulls?user=solus-packages
+⤴️ List of active pull requests in the solus-packages org: https://github.com/getsolus/packages/pulls
 
-⏩ List most recently updated packages in the solus-packages org: https://github.com/orgs/solus-packages/dashboard
-
-
+⏩ List most recently updated packages: https://github.com/getsolus/packages/commits/main
